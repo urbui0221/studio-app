@@ -1,4 +1,6 @@
 import Head from 'next/head'
+import Header from '../components/Header'
+import TopSearch from '../components/TopSearch'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -8,6 +10,13 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      
+      <div className="site">
+
+      <TopSearch />
+      <Header />
+
+      </div>
 
       <main className={styles.main}>
        
