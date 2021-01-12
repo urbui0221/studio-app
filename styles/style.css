@@ -126,7 +126,7 @@ body {
     font-size: 15px;
 }
 .bg-body {
-	background: url(../images/background/bg_body.jpg);
+	/* background: url(../images/background/bg_body.jpg); */
 }
 ul, ol {
     list-style: none;
@@ -4962,7 +4962,7 @@ header.header-mobile .header-right .open-search {
 		padding-top: 145px;
 		padding-bottom: 125px;
 		background-color: #f6f7f7;
-		background-image: url(../images/background/bg_11.jpg);
+		/* background-image: url(../images/background/bg_11.jpg); */
 	}
 	.team-filter ul li a {
 		font-size: 16px;
