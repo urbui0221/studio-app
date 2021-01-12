@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Carousel from '../components/Carousel.component'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       
+       <Carousel />
       </main>
 
       <footer className={styles.footer}>
