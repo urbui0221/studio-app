@@ -1,8 +1,21 @@
+@import "./bootstrap.min.css";
+@import "./font-awesome.min.css";
+@import "./ionicons.min.css";
+@import "./owl.carousel.css";
+@import "owl.theme.css";
+@import "settings.css";
+@import "component.css";
+@import "slick.css";
+@import "magnific-popup.css";
+@import "style.css";
+@import "custom.css";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: 'Merriweather',-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
